@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+
+
+
+
+
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c82c9;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #c1c1c1;
+}
+#menu-0 .mbr-navbar__items a {
+  font-size: 18px;
+}
+#menu-0 .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+}
+#slider-1 H1 {
+  color: #f97352;
+  text-align: left;
+  font-family: 'Droid Serif', serif;
+  font-size: 48px;
+}
+#slider-1 P {
+  color: #b8312f;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+  font-size: 30px;
+}
+#slider-1 B {
+  font-family: 'Droid Serif', serif;
+  color: #b8312f;
+  font-size: 30px;
+}
+#slider-1 .btn {
+  font-size: 16px;
+  font-family: 'PT Serif', serif;
+}
+#gallery1-3 SMALL {
+  font-family: 'Merriweather', serif;
+  font-size: 17px;
+  color: #d14841;
+}
+#gallery1-3 I {
+  font-size: 19px;
+}
+#features1-2 .mbr-section__col .mbr-header__text {
+  font-family: 'PT Serif', serif;
+  font-size: 18px;
+  color: #2c82c9;
+}
+#features1-2 P {
+  font-family: 'Lora', serif;
+}
+#features1-2 B {
+  color: #000000;
+}
+#contacts1-4 P {
+  font-size: 17px;
+  color: #e25041;
+}
+#contacts1-4 UL {
+  font-size: 15px;
+}
+#contacts1-4 STRONG {
+  font-size: 18px;
+  color: #2969b0;
+}
